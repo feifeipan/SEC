@@ -1,0 +1,31 @@
+[2018-1-24 17:39:2] send log for @1 times
+[2018-1-24 17:39:4] send log for @2 times
+[2018-1-24 17:39:6] send log for @3 times
+[2018-1-24 17:39:8] get exit signal
+[2018-1-26 10:20:54] send log for @1 times
+[2018-1-26 10:20:56] send log for @2 times
+[2018-1-26 10:20:58] send log for @3 times
+[2018-1-26 10:21:0] get exit signal
+[2018-1-26 11:4:53] send log for @1 times
+[2018-1-26 11:4:55] send log for @2 times
+[2018-1-26 11:4:57] send log for @3 times
+[2018-1-26 11:7:58] send log for @1 times
+[2018-1-26 11:8:0] send log for @2 times
+[2018-1-26 11:8:2] send log for @3 times
+[2018-1-26 11:10:31] send log for @1 times
+[2018-1-26 11:10:33] send log for @2 times
+[2018-1-26 11:10:35] send log for @3 times
+[2018-1-26 11:13:35] send log for @1 times
+[2018-1-26 11:13:37] send log for @2 times
+[2018-1-26 11:13:39] send log for @3 times
+[2018-1-26 11:13:41] get exit signal
+[2018-1-26 11:15:44] send log for @1 times
+[2018-1-26 11:15:46] send log for @2 times
+[2018-1-26 11:15:48] send log for @3 times
+[2018-1-26 11:19:35] send log for @1 times
+[2018-1-26 11:19:37] send log for @2 times
+[2018-1-26 11:19:39] send log for @3 times
+[2018-1-26 11:19:41] get exit signal
+[2018-1-26 11:20:1] send log for @1 times
+[2018-1-26 11:20:3] send log for @2 times
+[2018-1-26 11:20:5] send log for @3 times

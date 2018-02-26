@@ -1,0 +1,8 @@
+[17:38:39] = err =   receive disconnect event on child_process fork mode 
+[17:38:39] = err =   [%s] receive disconnect event on child_process fork mode, exiting with code:110 graceful-process#37025
+[17:38:39] = info=   graceful callback
+[17:39:08] = err =   receive disconnect event on child_process fork mode 
+[17:39:08] = err =   [%s] receive disconnect event on child_process fork mode, exiting with code:110 graceful-process#37126
+[17:39:08] = info=   graceful callback
+[17:39:08] = err =   [%s] exit with code:%s graceful-process#37126 1
+[17:41:39] = err =   [%s] exit with code:%s graceful-process#37025 110

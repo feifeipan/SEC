@@ -1,0 +1,19 @@
+{
+  "name": "sec",
+  "version": "1.0.0",
+  "description": "a secretary for you node app",
+  "main": "agent.client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.dev.sh.ctripcorp.com:ffpan/SEC.git"
+  },
+  "author": "ffpan@ctrip.com",
+  "license": "ISC",
+  "dependencies": {
+    "console-file-log": "^1.0.0",
+    "graceful": "^1.0.1"
+  }
+}

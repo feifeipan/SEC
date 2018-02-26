@@ -1,0 +1,3 @@
+
+graceful-process#74870 receive disconnect event on child_process fork mode, exiting with code:110
+graceful-process#74870 receive exit SIGTERM, exiting with code:error
