@@ -29,7 +29,7 @@ log_server是我的示例写法，可以定义一些方法，由app来调用。
 可以运行index.js来查看效果。
 
 # 退出时的处理
-在app异常退出时，会发送一个exit的信号给sec（这里用的是graceful的模块）。在log_server中声明一个beforeProcessExit的方法，用来处理一些退出之前的事情。
+在app异常退出时，会发送一个exit的信号给sec（这里用的是[graceful](https://github.com/feifeipan/childprocess-exit)）。在log_server中声明一个beforeProcessExit的方法，用来处理一些退出之前的事情。
 
 
 
